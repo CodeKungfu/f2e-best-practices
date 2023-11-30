@@ -17,3 +17,7 @@
 ## JavaScript Projects Practices
 
 [JavaScript Projects Practices](https://github.com/elsewhencode/project-guidelines)
+
+## clean-code-typescript
+
+[clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
