@@ -18,6 +18,10 @@
 
 [JavaScript Projects Practices](https://github.com/elsewhencode/project-guidelines)
 
+## HTML Best Practices
+
+[HTML Best Practices](https://github.com/hail2u/html-best-practices)
+
 ## clean-code-typescript
 
 [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
